@@ -1,3 +1,3 @@
 # test-bs
 
-aws_secret_access_key
+aws_secret_access_key=123123123
